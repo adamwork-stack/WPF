@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ExcelLikeGrid.Sandbox/1.0.0": {
+        "dependencies": {
+          "ExcelLikeGrid.UI": "1.0.0"
+        },
+        "runtime": {
+          "ExcelLikeGrid.Sandbox.dll": {}
+        }
+      },
+      "ExcelLikeGrid.UI/1.0.0": {
+        "runtime": {
+          "ExcelLikeGrid.UI.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExcelLikeGrid.Sandbox/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExcelLikeGrid.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

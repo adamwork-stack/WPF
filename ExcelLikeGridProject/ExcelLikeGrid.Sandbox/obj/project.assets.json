@@ -1,0 +1,103 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "ExcelLikeGrid.UI/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ExcelLikeGrid.UI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ExcelLikeGrid.UI.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "ExcelLikeGrid.UI/1.0.0": {
+      "type": "project",
+      "path": "../ExcelLikeGrid.UI/ExcelLikeGrid.UI.csproj",
+      "msbuildProject": "../ExcelLikeGrid.UI/ExcelLikeGrid.UI.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "ExcelLikeGrid.UI >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Adam\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\dev\\ExcelLikeGridProject\\ExcelLikeGridProject\\ExcelLikeGrid.Sandbox\\ExcelLikeGrid.Sandbox.csproj",
+      "projectName": "ExcelLikeGrid.Sandbox",
+      "projectPath": "C:\\dev\\ExcelLikeGridProject\\ExcelLikeGridProject\\ExcelLikeGrid.Sandbox\\ExcelLikeGrid.Sandbox.csproj",
+      "packagesPath": "C:\\Users\\Adam\\.nuget\\packages\\",
+      "outputPath": "C:\\dev\\ExcelLikeGridProject\\ExcelLikeGridProject\\ExcelLikeGrid.Sandbox\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Adam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "C:\\dev\\ExcelLikeGridProject\\ExcelLikeGridProject\\ExcelLikeGrid.UI\\ExcelLikeGrid.UI.csproj": {
+              "projectPath": "C:\\dev\\ExcelLikeGridProject\\ExcelLikeGridProject\\ExcelLikeGrid.UI\\ExcelLikeGrid.UI.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.100"
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

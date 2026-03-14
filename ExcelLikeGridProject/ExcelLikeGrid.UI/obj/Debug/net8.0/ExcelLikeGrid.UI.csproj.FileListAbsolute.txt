@@ -1,0 +1,11 @@
+C:\dev\ExcelLikeGridProject\ExcelLikeGridProject\ExcelLikeGrid.UI\bin\Debug\net8.0\ExcelLikeGrid.UI.deps.json
+C:\dev\ExcelLikeGridProject\ExcelLikeGridProject\ExcelLikeGrid.UI\bin\Debug\net8.0\ExcelLikeGrid.UI.dll
+C:\dev\ExcelLikeGridProject\ExcelLikeGridProject\ExcelLikeGrid.UI\bin\Debug\net8.0\ExcelLikeGrid.UI.pdb
+C:\dev\ExcelLikeGridProject\ExcelLikeGridProject\ExcelLikeGrid.UI\obj\Debug\net8.0\ExcelLikeGrid.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\ExcelLikeGridProject\ExcelLikeGridProject\ExcelLikeGrid.UI\obj\Debug\net8.0\ExcelLikeGrid.UI.AssemblyInfoInputs.cache
+C:\dev\ExcelLikeGridProject\ExcelLikeGridProject\ExcelLikeGrid.UI\obj\Debug\net8.0\ExcelLikeGrid.UI.AssemblyInfo.cs
+C:\dev\ExcelLikeGridProject\ExcelLikeGridProject\ExcelLikeGrid.UI\obj\Debug\net8.0\ExcelLikeGrid.UI.csproj.CoreCompileInputs.cache
+C:\dev\ExcelLikeGridProject\ExcelLikeGridProject\ExcelLikeGrid.UI\obj\Debug\net8.0\ExcelLikeGrid.UI.dll
+C:\dev\ExcelLikeGridProject\ExcelLikeGridProject\ExcelLikeGrid.UI\obj\Debug\net8.0\refint\ExcelLikeGrid.UI.dll
+C:\dev\ExcelLikeGridProject\ExcelLikeGridProject\ExcelLikeGrid.UI\obj\Debug\net8.0\ExcelLikeGrid.UI.pdb
+C:\dev\ExcelLikeGridProject\ExcelLikeGridProject\ExcelLikeGrid.UI\obj\Debug\net8.0\ref\ExcelLikeGrid.UI.dll
