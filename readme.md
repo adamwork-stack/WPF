@@ -1,1 +1,1 @@
-https://github.com/adamwork-stack/WPF/blob/master/screenshot.png
+![App Screenshot](https://raw.githubusercontent.com/adamwork-stack/WPF/master/screenshot.png)
