@@ -14,3 +14,4 @@ C:\dev\ExcelLikeGridProject\ExcelLikeGridProject\ExcelLikeGrid.UI\obj\Debug\net8
 C:\dev\ExcelLikeGridProject\ExcelLikeGridProject\ExcelLikeGrid.UI\obj\Debug\net8.0-windows\refint\ExcelLikeGrid.UI.dll
 C:\dev\ExcelLikeGridProject\ExcelLikeGridProject\ExcelLikeGrid.UI\obj\Debug\net8.0-windows\ExcelLikeGrid.UI.pdb
 C:\dev\ExcelLikeGridProject\ExcelLikeGridProject\ExcelLikeGrid.UI\obj\Debug\net8.0-windows\ref\ExcelLikeGrid.UI.dll
+C:\dev\ExcelLikeGridProject\ExcelLikeGridProject\ExcelLikeGrid.UI\obj\Debug\net8.0-windows\ExcelLikeGrid.UI.sourcelink.json

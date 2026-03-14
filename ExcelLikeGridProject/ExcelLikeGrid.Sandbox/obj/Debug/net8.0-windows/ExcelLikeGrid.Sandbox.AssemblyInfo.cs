@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExcelLikeGrid.Sandbox")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc8783c4ebfab913973f69e4d1f2f3e89e086688")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExcelLikeGrid.Sandbox")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExcelLikeGrid.Sandbox")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -21,3 +21,4 @@ C:\dev\ExcelLikeGridProject\ExcelLikeGridProject\ExcelLikeGrid.Sandbox\obj\Debug
 C:\dev\ExcelLikeGridProject\ExcelLikeGridProject\ExcelLikeGrid.Sandbox\obj\Debug\net8.0-windows\ExcelLikeGrid.Sandbox.pdb
 C:\dev\ExcelLikeGridProject\ExcelLikeGridProject\ExcelLikeGrid.Sandbox\obj\Debug\net8.0-windows\ExcelLikeGrid.Sandbox.genruntimeconfig.cache
 C:\dev\ExcelLikeGridProject\ExcelLikeGridProject\ExcelLikeGrid.Sandbox\obj\Debug\net8.0-windows\ref\ExcelLikeGrid.Sandbox.dll
+C:\dev\ExcelLikeGridProject\ExcelLikeGridProject\ExcelLikeGrid.Sandbox\obj\Debug\net8.0-windows\ExcelLikeGrid.Sandbox.sourcelink.json
